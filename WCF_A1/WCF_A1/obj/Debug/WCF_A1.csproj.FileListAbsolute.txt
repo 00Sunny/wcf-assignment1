@@ -1,0 +1,7 @@
+C:\WCF\wcf-assignment1\WCF_A1\WCF_A1\bin\WCF_A1.dll.config
+C:\WCF\wcf-assignment1\WCF_A1\WCF_A1\bin\WCF_A1.dll
+C:\WCF\wcf-assignment1\WCF_A1\WCF_A1\bin\WCF_A1.pdb
+C:\WCF\wcf-assignment1\WCF_A1\WCF_A1\obj\Debug\WCF_A1.csproj.AssemblyReference.cache
+C:\WCF\wcf-assignment1\WCF_A1\WCF_A1\obj\Debug\WCF_A1.csproj.CoreCompileInputs.cache
+C:\WCF\wcf-assignment1\WCF_A1\WCF_A1\obj\Debug\WCF_A1.dll
+C:\WCF\wcf-assignment1\WCF_A1\WCF_A1\obj\Debug\WCF_A1.pdb

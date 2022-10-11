@@ -1,0 +1,7 @@
+C:\WCF\wcf-assignment1\WCF_A1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\WCF\wcf-assignment1\WCF_A1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\WCF\wcf-assignment1\WCF_A1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\WCF\wcf-assignment1\WCF_A1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\WCF\wcf-assignment1\WCF_A1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\WCF\wcf-assignment1\WCF_A1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\WCF\wcf-assignment1\WCF_A1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
